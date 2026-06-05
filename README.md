@@ -271,7 +271,24 @@ streamlit run app.py
 * What initiatives does the NGO run?
 
 ---
+## Screenshots
 
+### Home Page
+
+![Home Page](screenshots/homepage.png)
+
+### Founder Query
+
+![Founder Query](screenshots/founder_query.png)
+
+### Project Information
+
+![Project Information](screenshots/project_udaan.png)
+
+### Fallback Handling
+
+![Fallback Handling](screenshots/fallback_query.png)
+-----
 ## Future Enhancements
 
 * Retrieval-Augmented Generation (RAG)
